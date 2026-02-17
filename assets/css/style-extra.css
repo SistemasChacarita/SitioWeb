@@ -1,0 +1,25 @@
+.owl-item > div {
+  
+  margin: 8% 10%;
+  transition: margin 0.4s ease;
+}
+.owl-item.center > div {
+  cursor: auto;
+  margin: 0;
+}
+.owl-item:not(.center) > div:hover {
+  opacity: .75;
+}
+
+.color-fondo{
+    background-color: red;
+}
+
+.fondo-copa-argentina{
+    background-color: #527AB8;
+}
+
+.blur {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
