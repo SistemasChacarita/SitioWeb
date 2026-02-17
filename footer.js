@@ -210,7 +210,7 @@ const footerTemplate = `
          <div>
            <figure>
              <a href="URL_DEL_NUEVO_SPONSOR" target="_blank" rel="noopener noreferrer">
-             <img src="./assets/img/logos/NOMBRE_DEL_ARCHIVO.png" alt="Nombre Sponsor" height="45">
+             <img src="./assets/img/logos/NOMBRE_DEL_ARCHIVOs.png" alt="Nombre Sponsor" height="45">
              </a>
            </figure>
          </div>
