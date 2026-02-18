@@ -41,7 +41,7 @@ const footerTemplate = `
           <div>
             <figure>
               <a href="https://www.instagram.com/mrbetarg?igsh=empmbXo1ZzR4ajE2"_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/Mr.Bet_120231.png" alt="Tienda chaca" height="150"></a>
+                <img src="./assets/img/logos/Mr.Bet_120231.png" alt="Mr Bet" height="150"></a>
             </figure>
           </div>
         </div>
@@ -54,8 +54,8 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://sanmartin.gov.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_sanmartin.png" alt="San Martín" height="40"></a>
+              <a href="https://yadsa.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/YADSA.png" alt="YADSA" height="90"></a>
             </figure>
           </div>
         </div>
@@ -78,8 +78,8 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
           <div>
             <figure>
-              <a href="https://www.pinturasandina.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_andinas.png" alt="Pinturas Andinas" height="33"></a>
+              <a href="https://inquinat.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/Inquinat.png" alt="Inquinat" height="80"></a>
             </figure>
           </div>
         </div>
@@ -89,23 +89,24 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://www.rossiequipamientos.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_rossi.png" alt="Rossi" height="40"></a>
+              <a href="https://asi.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/ASI.png" alt="ASI" height="70"></a>
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <img src="./assets/img/logos/logo_panaderos.png" alt="Panaderos" height="27">
+              
+              <img src="./assets/img/logos/Cristal.png" alt="Cristal" height="80">
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://atomodesinflamante.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_atomo.png" alt="Atomo desinflamante" height="40"></a>
+              <a href="https://unionganadera.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/UnionGanadera.png" alt="Union Ganadera" height="100"></a>
             </figure>
           </div>
         </div>
@@ -123,8 +124,8 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://www.grupomas.software/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_grupomas.png" alt="Grupo Mas" height="20"></a>
+              <a href="https://www.instagram.com/diserquimzonanorte/?hl=es-la" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/diserquim.png" alt="Diserquim" height="120"></a>
             </figure>
           </div>
         </div>
@@ -139,8 +140,8 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://empanadasmorita.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_lamorita.png" alt="La Morita" height="30"></a>
+              <a href="https://www.complejochacarita.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/ComplejoChacarita.png" alt="Complejo CH" height="100"></a>
             </figure>
           </div>
         </div>
@@ -158,32 +159,32 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://www.cemepla.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/cemepla.png" alt="cemepla" height="70"></a>
+              <a href="https://chacaritajrs.tienda.accessfan.ar/et=" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/logo_tiendachaca.png" alt="Tienda Chaca" height="70"></a>
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://www.avimas.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/avimas.png" alt="avimas" height="32"></a>
+              <a href="https://www.instagram.com/merakautos/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/merak.png" alt="Merak Autos" height="45"></a>
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
-          <div>
-            <figure>
-              <a href="https://karunagroup.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_karuma.png" alt="karuma group" height="23"></a>
-            </figure>
+        <div>
+         <figure>
+         <a href="" target="_blank" rel="noopener noreferrer">
+              <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
+           </figure>
           </div>
-        </div>
+        </div> 
         <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
           <div>
             <figure>
-              <a href="http://corralondemarco.com.ar/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/demarco.png" alt="de marco" height="24"></a>
+              <a href="" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
             </figure>
           </div>
         </div>
@@ -193,24 +194,24 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="#" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_autosol.png" alt="Autosol" height="90"></a>
+              <a href="" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
           <div>
             <figure>
-              <a href="https://www.instagram.com/merakautos/" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/merak.png" alt="Autosol" height="45"></a>
+              <a href="" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
             </figure>
           </div>
         </div>
         <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
          <div>
            <figure>
-             <a href="URL_DEL_NUEVO_SPONSOR" target="_blank" rel="noopener noreferrer">
-             <img src="./assets/img/logos/NOMBRE_DEL_ARCHIVOs.png" alt="Nombre Sponsor" height="45">
+             <a href="" target="_blank" rel="noopener noreferrer">
+             <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
              </a>
            </figure>
          </div>
@@ -219,8 +220,8 @@ const footerTemplate = `
        <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
          <div>
            <figure>
-             <a href="URL_DEL_NUEVO_SPONSOR" target="_blank" rel="noopener noreferrer">
-             <img src="./assets/img/logos/NOMBRE_DEL_ARCHIVO.png" alt="Nombre Sponsor" height="45">
+             <a href="" target="_blank" rel="noopener noreferrer">
+             <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
              </a>
            </figure>
          </div>
@@ -232,9 +233,14 @@ const footerTemplate = `
       <div class="row">
         <div class="col-12">
           <div class="text-center">
-            <p class="text-dark my-4 text-sm font-weight-normal"> Todos los derechos reservados. Copyright © <script>
+            <p class="text-dark my-4 text-sm font-weight-normal"> Todos los derechos reservados. Copyright © 2026<script>
                 document.write(new Date().getFullYear());
-              </script> Chacarita Juniors.<br> <a class="linkfooter" target="_blank">Bear Web</a>
+              </script> Chacarita Juniors.<br> Por
+                  <a
+                    class="linkfooter"
+                    href="https://hcsoluciones.com.ar"
+                    target="_blank"
+                    >HC Soluciones</a
             </p>
           </div>
         </div>
@@ -243,3 +249,6 @@ const footerTemplate = `
   </footer>
 `;
 document.body.insertAdjacentHTML('beforeend', footerTemplate);
+
+/*
+*/
