@@ -148,8 +148,8 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
           <div>
             <figure>
-              <a href="https://www.instagram.com/calcoshow/?hl=es" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/logo_calcoshow.png" alt="Calco Show" height="40"></a>
+              <a href="https://MOSEGURIDAD" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/MoSeguridad.png" alt="MO Seguridad" height="80"></a>
             </figure>
           </div>
         </div>
@@ -175,16 +175,16 @@ const footerTemplate = `
         <div class="col-md-2 col-sm-6 col-6 mb-4 center hover01">
         <div>
          <figure>
-         <a href="" target="_blank" rel="noopener noreferrer">
-              <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
+         <a href="https://ponasec.com.ar/" target="_blank" rel="noopener noreferrer">
+              <img src="./assets/img/logos/ponasec.png" alt="Ponasec" height="80"></a>
            </figure>
           </div>
         </div> 
         <div class="col-md-2 col-sm-6 col-6 mb-4 me-auto center hover01">
           <div>
             <figure>
-              <a href="" target="_blank" rel="noopener noreferrer">
-                <img src="./assets/img/logos/EnBlanco.png" alt="Espacio Disponible" height="23"></a>
+              <a href="https://new.daiba.com.ar/" target="_blank" rel="noopener noreferrer">
+                <img src="./assets/img/logos/daiba.png" alt="Daiba" height="100"></a>
             </figure>
           </div>
         </div>
